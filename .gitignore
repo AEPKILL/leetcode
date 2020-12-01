@@ -1,0 +1,17 @@
+# 发布 npm 模块目录
+**/lib/
+
+# node_modules
+**/node_modules/
+
+# log 文件
+**/lib/*.log
+
+# 本地预览目录
+**/preview/
+
+# lock 文件
+**/*-lock.json
+
+
+.leetcode
